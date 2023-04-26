@@ -6,11 +6,11 @@ int main()
     // Assign The Values
     char a = '1';
     char b = '1';
-    char c = '999';
+    char c = '1';
 
-    a = int(a);
-    b = int(b);
-    c = int(c);
+    a = 10;
+    b = 10;
+    c = 99;
 
     // Do Not Edit
     cout << b * c + a << "\n"; // 1000
