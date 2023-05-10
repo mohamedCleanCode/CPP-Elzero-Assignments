@@ -29,5 +29,3 @@ C++ Function Call, C++ Built-In Functions, C++ Function Recursion, C++ Lambda Fu
 
 # week-9
 C++ Containers, C++ Vector, C++ Dynamic Array, C++ Vector vs Array, C++ Vector Methods, C++ Vector Loop, C++ Vector Iterator, C++ Vector Iterator Types, C++ Vector Iterator Use Cases
-الأدوات والمراجع
-الاسبوع الثامن
